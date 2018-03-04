@@ -3,7 +3,7 @@ module.exports = {
     title: 'Jaycee Cheong',
     author: 'Jaycee Cheong',
     description: 'Jaycee Cheong, Bristol software developer/engineer',
-    siteUrl: 'https://github.com/herecomesjaycee/herecomesjaycee.github.io',
+    siteUrl: 'https:/herecomesjaycee.com',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [

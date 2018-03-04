@@ -3,7 +3,7 @@ title: My Claim Dossier
 date: "2017-06-01T22:12:03.284Z"
 ---
 
-Caroline, Rose and I built a proof a concept app on insurance claim approval & public ledging system. We won overall second place at [Break The Block](http://breaktheblock.simplybusiness.co.uk/) hackathon with titles on Best Blockchain & Best Concept
+Caroline, Rozi and I built a proof a concept app on insurance claim approval & public ledging system. We won overall second place at [Break The Block](http://breaktheblock.simplybusiness.co.uk/) hackathon with titles on Best Blockchain & Best Concept
 
 ## Reference
 
