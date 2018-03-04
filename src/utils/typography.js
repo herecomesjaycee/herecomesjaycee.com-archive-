@@ -2,6 +2,11 @@ import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
 Wordpress2016.overrideThemeStyles = () => ({
+  body: {
+    backgroundColor: '#2D3042',
+    color: '#EAEAEC',
+  },
+
   'a.gatsby-resp-image-link': {
     boxShadow: 'none',
     borderRadius: 20,

@@ -3,7 +3,7 @@ title: Be My Meme
 date: "2017-03-22T22:12:03.284Z"
 ---
 
-Dating platform with meme images integration in Ruby on Rails
+Dating platform with internet memes gallery integration in Ruby on Rails
 
 <!-- end -->
 
