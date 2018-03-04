@@ -15,9 +15,12 @@ class Bio extends React.Component {
           marginBottom: rhythm(2.5),
         }}
       >
-        <p>
-          <strong>Holla at me:</strong>
-          <ul>
+        <div>
+          <h2>
+            <u>Holla at me:</u>
+          </h2>
+
+          <ul style={{ padding: 5 }}>
             <li>
               <a href="https://twitter.com/herecomesjaycee">Twitter</a>
             </li>
@@ -25,7 +28,7 @@ class Bio extends React.Component {
               <a href="https://twitter.com/herecomesjaycee">Email</a>
             </li>
           </ul>
-        </p>
+        </div>
       </div>
     )
   }

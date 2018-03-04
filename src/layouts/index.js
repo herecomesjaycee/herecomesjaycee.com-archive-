@@ -21,13 +21,14 @@ class Template extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            color: '#EAEAEC',
           }}
         >
           <Link
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
-              color: 'inherit',
+              color: '#EAEAEC',
             }}
             to={'/'}
           >
@@ -42,13 +43,14 @@ class Template extends React.Component {
             fontFamily: 'Montserrat, sans-serif',
             marginTop: 0,
             marginBottom: rhythm(-1),
+            color: '#EAEAEC',
           }}
         >
           <Link
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
-              color: 'inherit',
+              color: '#EAEAEC',
             }}
             to={'/'}
           >
@@ -62,6 +64,8 @@ class Template extends React.Component {
         style={{
           maxWidth: rhythm(30),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: '#2D3042',
+          color: '#EAEAEC',
         }}
       >
         {header}

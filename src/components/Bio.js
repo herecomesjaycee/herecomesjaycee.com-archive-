@@ -14,6 +14,7 @@ class Bio extends React.Component {
         style={{
           display: 'flex',
           marginBottom: rhythm(2.5),
+          textAlign: 'center',
         }}
       >
         <img
@@ -22,14 +23,15 @@ class Bio extends React.Component {
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
-            width: rhythm(5),
-            height: rhythm(5),
+            width: rhythm(4),
+            height: rhythm(4),
             borderRadius: 100,
           }}
         />
         <p>
           • 💖 coffee is love ☕ • 😭 ramen is life 🍜 <br />
-          • ⌨ <a href="https://twitter.com/immersivelabsuk">@immersivelabsuk</a>
+          • ⌨{' '}
+          <a href="https://twitter.com/immersivelabsuk"> @immersivelabsuk</a>
           • 👩🏻‍🏫 <a href="">@codefirstgirls</a> <br /> • 🎃 of all trades • 👩🏻‍🎨
           visual artist wannabe
         </p>
