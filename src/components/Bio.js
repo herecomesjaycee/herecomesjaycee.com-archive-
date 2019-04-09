@@ -29,7 +29,7 @@ class Bio extends React.Component {
         />
         <p>
           💖 coffee is love ☕ • 😭 ramen is life 🍜
-          <br />• Follow me on&#32;
+          <br />• Follow me on{' '}
           <a href="https://twitter.com/herecomesjaycee"> Twitter 🐦</a>
         </p>
       </div>
