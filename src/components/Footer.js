@@ -16,18 +16,9 @@ class Bio extends React.Component {
         }}
       >
         <div>
-          <h2>
-            <u>Holla at me:</u>
-          </h2>
-
-          <ul style={{ padding: 5 }}>
-            <li>
-              <a href="https://twitter.com/herecomesjaycee">Twitter</a>
-            </li>
-            <li>
-              <a href="https://twitter.com/herecomesjaycee">Email</a>
-            </li>
-          </ul>
+          <p>
+            Built with 💖 && <a href="https://www.gatsbyjs.org/">Gatsby</a>
+          </p>
         </div>
       </div>
     )
