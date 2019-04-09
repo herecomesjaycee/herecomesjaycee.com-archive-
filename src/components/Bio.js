@@ -18,7 +18,7 @@ class Bio extends React.Component {
         }}
       >
         <img
-          src="https://pbs.twimg.com/profile_images/894290552560267264/tMqiAGFw_400x400.jpg"
+          src="https://pbs.twimg.com/profile_images/1078831932417421312/SbqMJ05y_400x400.jpg"
           alt={`Jaycee Cheong`}
           style={{
             marginRight: rhythm(1 / 2),
@@ -29,10 +29,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          • 💖 coffee is love ☕ • 😭 ramen is life 🍜 <br />
-          • ⌨{' '}
-          <a href="https://twitter.com/immersivelabsuk"> @immersivelabsuk</a>
-          • 👩🏻‍🏫 <a href="">@codefirstgirls</a> <br /> • 🎃 of all trades • 👩🏻‍🎨
+          • 💖 coffee is love ☕ • 😭 ramen is life 🍜 <br />• ⌨{' '}
+          <a href="https://twitter.com/immersivelabsuk"> @immersivelabsuk</a>•
+          👩🏻‍🏫 <a href="">@codefirstgirls</a> <br /> • 🎃 of all trades • 👩🏻‍🎨
           visual artist wannabe
         </p>
       </div>
